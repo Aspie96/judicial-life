@@ -1,5 +1,5 @@
 # Privacy policy
-This privacy policy applies to this website, as reachable at https://judicial-life.org.
+This privacy policy applies to this website, as reachable at [judicial-life.org](judicial-life.org).
 
 This website is hosted on GitHub pages, offered by GitHub, Inc. and GitHub, Inc. is the Processor.
 
