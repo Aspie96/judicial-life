@@ -30,7 +30,7 @@ In addition to responses to the questions above, judicial officers might also wi
 - If the accused man has attended court, has he ever felt the need to apply for an intervention order?
 - Does the man say that he was defending himself, or is there any other evidence to suggest this was the case?
 
-If the woman is genuinely a victim of violence from a male partner or other family member (e.g. adolescent or adult children), she might be assisted in a number of ways, including the Women's Referral Service, the Victims of Crime Helpline, the Victim's Assistance and Counselling Program their local community health service.
+If the woman is genuinely a victim of violence from a male partner or other family member (e.g. adolescent or adult children), she might be assisted in a number of ways, including by the Women's Referral Service, the Victims of Crime Helpline, the Victim's Assistance and Counselling Program their local community health service.
 
 ## Comments
 This Bench Manual is just at an early stage.
