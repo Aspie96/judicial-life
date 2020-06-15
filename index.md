@@ -1,13 +1,13 @@
-# Family Violence Guide
+# Family Violence Bench Manual
 In Australia family violence is broadly defined to cover:
 - physical or sexual abuse;
 - economic abuse;
 - emotional or psychological abuse;
 - threatening or coercive behaviour;
-- behaviour that in any other way controls or dominates a family member and causes them to feel fear for their safety or wellbeing or for that of another person (only the word safety is defined);
+- behaviour that in any other way controls or dominates a family member and causes them to feel fear for their safety or wellbeing or for that of another person;
 - causing a child to hear, witness or be exposed to family violence.
 
-This project, from Judicial Life, has the purpose to provide a trusted place where the judiciary come to share knowledge, wisdom and expertise on the topic of family violence.
+This project, from Judicial Life, has the purpose of providing a trusted place where the judiciary come to share knowledge, wisdom and expertise on the topic of family violence.
 
 ## Responding to women who claim to be victims of family violence
 Women are often victims of family violence.
@@ -24,9 +24,9 @@ There are a number of questions a judicial officer can consider asking when a wo
 - What has held you back from seeking help earlier or trying to escape the situation? People who are truly victims might have felt too frightened to seek help earlier. They might have lacked access to money, resources, information and support to leave. They might have felt trapped. Note that they might also feel ashamed for not having sought help earlier.
 
 In addition to responses to the questions above, judicial officers might also wish to consider the following questions and issues:
-- Has the man had any history of criminal behaviour or allegations of such behaviour, particularly involving violence?
-- Has the man had any intervention orders taken out against him in the past?
-- Is there evidence of the man using controlling attitudes, beliefs and behaviours, or having rigid attitudes towards gender roles?
+- Has the woman had any history of criminal behaviour or allegations of such behaviour, particularly involving violence?
+- Has the wpman had any intervention orders taken out against him in the past?
+- Is there evidence of the woman using controlling attitudes, beliefs and behaviours, or having rigid attitudes towards gender roles?
 - If the accused man has attended court, has she ever felt the need to apply for an intervention order?
 - Does the man say that he was defending himself, or is there any other evidence to suggest this was the case?
 
