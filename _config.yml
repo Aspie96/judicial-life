@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 title: Judicial Life
 description: A trusted place where the judiciary come to share knowledge, wisdom and expertise on the topic of family violence.
 show_downloads: false
+github:
+    is_project_page: false
