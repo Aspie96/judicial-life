@@ -25,7 +25,7 @@ There are a number of questions a judicial officer can consider asking when a wo
 
 In addition to responses to the questions above, judicial officers might also wish to consider the following questions and issues:
 - Has the woman had any history of criminal behaviour or allegations of such behaviour, particularly involving violence?
-- Has the wpman had any intervention orders taken out against him in the past?
+- Has the woman had any intervention orders taken out against him in the past?
 - Is there evidence of the woman using controlling attitudes, beliefs and behaviours, or having rigid attitudes towards gender roles?
 - If the accused man has attended court, has he ever felt the need to apply for an intervention order?
 - Does the man say that he was defending himself, or is there any other evidence to suggest this was the case?
