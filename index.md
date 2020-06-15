@@ -36,3 +36,6 @@ If the woman is genuinely a victim of violence from a male partner or other fami
 This Bench Manual is just at an early stage.
 
 We are working hard and at the very beginning of wrinting it and decided to provide it with early access. For this reason, it is important for us at JL to hear your opinion. Please use the comment section below.
+
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
